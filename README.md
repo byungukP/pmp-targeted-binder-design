@@ -112,17 +112,11 @@ python edit_complexPDB4masif_pmp.py input.pdb output.pdb
 ## Data availability
 
 This repository holds the design models, analysis code, and small input/output files.
-The molecular-dynamics and umbrella-sampling data underlying the binding free-energy
-analysis are too large to version-control (≈31 GB) and are deposited separately on
-Dryad, DOI: `10.5061/dryad.XXXXXXX`:
+The molecular dynamics and umbrella sampling data underlying the binding free energy
+analysis are deposited separately on Dryad (will be available soon!)
 
-* **Unbiased MD** — GROMACS inputs (`.mdp`, `sys.gro`, `sys.top`, `toppar/`, `index.ndx`)
-  and trajectories (`.xtc`, `.tpr`) for the target–binder complex in bulk water, and for
-  the complex, the isolated target, and the isolated binders in a highly mobile membrane
-  mimetic (HMMM) bilayer; three replicas per system.
-* **Steered MD and umbrella sampling** — cylinder-pulling inputs and trajectories, the
-  per-window umbrella inputs and outputs, and the WHAM results (PMF, window histograms,
-  and bootstrap profiles).
+<!-- Dryad, DOI: `10.5061/dryad.XXXXXXX`: -->
+
 
 ## Software
 
