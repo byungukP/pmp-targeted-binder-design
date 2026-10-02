@@ -1,0 +1,79 @@
+ptn_b0_complex.pdb
+chain_a: B
+chain_b: A
+chain_centroid_distance_A: 32.889055
+interface_area_A2: 470.724675
+left_lobe_max_area_A2: 1557.489202
+right_lobe_max_area_A2: 530.110299
+reference_lobe_area_A2: 530.110299
+S_interface_neck: 0.88797497
+
+ptn_b1_complex.pdb
+chain_a: B
+chain_b: A
+chain_centroid_distance_A: 29.698083
+interface_area_A2: 493.735093
+left_lobe_max_area_A2: 1553.395904
+right_lobe_max_area_A2: 694.302407
+reference_lobe_area_A2: 694.302407
+S_interface_neck: 0.71112398
+
+ptn_b2_complex.pdb
+chain_a: B
+chain_b: A
+chain_centroid_distance_A: 32.163300
+interface_area_A2: 422.647463
+left_lobe_max_area_A2: 1537.170640
+right_lobe_max_area_A2: 564.370948
+reference_lobe_area_A2: 564.370948
+S_interface_neck: 0.74888239
+
+ptn_b3_complex.pdb
+chain_a: B
+chain_b: A
+chain_centroid_distance_A: 28.390657
+interface_area_A2: 498.156507
+left_lobe_max_area_A2: 1443.446881
+right_lobe_max_area_A2: 623.480584
+reference_lobe_area_A2: 623.480584
+S_interface_neck: 0.79899282
+
+ptn_b4_complex.pdb
+chain_a: B
+chain_b: A
+chain_centroid_distance_A: 28.890073
+interface_area_A2: 515.876228
+left_lobe_max_area_A2: 1403.340147
+right_lobe_max_area_A2: 592.770754
+reference_lobe_area_A2: 592.770754
+S_interface_neck: 0.87027949
+
+ptn_b5_complex.pdb
+chain_a: B
+chain_b: A
+chain_centroid_distance_A: 28.720009
+interface_area_A2: 490.443181
+left_lobe_max_area_A2: 1403.385449
+right_lobe_max_area_A2: 716.267081
+reference_lobe_area_A2: 716.267081
+S_interface_neck: 0.68472110
+
+ptn_b6_complex.pdb
+chain_a: B
+chain_b: A
+chain_centroid_distance_A: 30.485971
+interface_area_A2: 448.382387
+left_lobe_max_area_A2: 1423.730858
+right_lobe_max_area_A2: 487.454491
+reference_lobe_area_A2: 487.454491
+S_interface_neck: 0.91984461
+
+ptn_b7_complex.pdb
+chain_a: B
+chain_b: A
+chain_centroid_distance_A: 28.533959
+interface_area_A2: 500.499294
+left_lobe_max_area_A2: 1456.242882
+right_lobe_max_area_A2: 563.720897
+reference_lobe_area_A2: 563.720897
+S_interface_neck: 0.88784946

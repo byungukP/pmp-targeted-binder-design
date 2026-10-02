@@ -1,0 +1,11 @@
+# Normalize text to LF in the repository and on checkout, so that
+# fixed-column structure files are byte-identical on every platform.
+* text=auto eol=lf
+
+# Binary data — never line-ending converted
+*.npy binary
+*.gz  binary
+*.png binary
+
+# Keep notebook diffs readable
+*.ipynb text eol=lf

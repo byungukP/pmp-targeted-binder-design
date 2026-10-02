@@ -1,0 +1,79 @@
+protein_binder_design_1czt_target_0_model_0.cif
+chain_a: B
+chain_b: A
+chain_centroid_distance_A: 35.582593
+interface_area_A2: 246.968376
+left_lobe_max_area_A2: 687.954394
+right_lobe_max_area_A2: 320.000559
+reference_lobe_area_A2: 320.000559
+S_interface_neck: 0.77177483
+
+protein_binder_design_1czt_target_0_model_1.cif
+chain_a: B
+chain_b: A
+chain_centroid_distance_A: 31.469862
+interface_area_A2: 346.424786
+left_lobe_max_area_A2: 695.102854
+right_lobe_max_area_A2: 435.267909
+reference_lobe_area_A2: 435.267909
+S_interface_neck: 0.79588865
+
+protein_binder_design_1czt_target_0_model_2.cif
+chain_a: B
+chain_b: A
+chain_centroid_distance_A: 31.757202
+interface_area_A2: 326.055969
+left_lobe_max_area_A2: 711.628900
+right_lobe_max_area_A2: 458.676400
+reference_lobe_area_A2: 458.676400
+S_interface_neck: 0.71086275
+
+protein_binder_design_1czt_target_0_model_3.cif
+chain_a: B
+chain_b: A
+chain_centroid_distance_A: 33.168622
+interface_area_A2: 175.317350
+left_lobe_max_area_A2: 664.696643
+right_lobe_max_area_A2: 539.705623
+reference_lobe_area_A2: 539.705623
+S_interface_neck: 0.32483884
+
+protein_binder_design_1czt_target_0_model_4.cif
+chain_a: B
+chain_b: A
+chain_centroid_distance_A: 33.897594
+interface_area_A2: 234.597008
+left_lobe_max_area_A2: 651.217984
+right_lobe_max_area_A2: 395.754814
+reference_lobe_area_A2: 395.754814
+S_interface_neck: 0.59278371
+
+protein_binder_design_1czt_target_0_model_5.cif
+chain_a: B
+chain_b: A
+chain_centroid_distance_A: 32.932151
+interface_area_A2: 242.671495
+left_lobe_max_area_A2: 649.295728
+right_lobe_max_area_A2: 466.201632
+reference_lobe_area_A2: 466.201632
+S_interface_neck: 0.52052906
+
+protein_binder_design_1czt_target_0_model_6.cif
+chain_a: B
+chain_b: A
+chain_centroid_distance_A: 29.505327
+interface_area_A2: 311.110452
+left_lobe_max_area_A2: 693.443177
+right_lobe_max_area_A2: 554.066684
+reference_lobe_area_A2: 554.066684
+S_interface_neck: 0.56150363
+
+protein_binder_design_1czt_target_0_model_7.cif
+chain_a: B
+chain_b: A
+chain_centroid_distance_A: 31.365693
+interface_area_A2: 291.655789
+left_lobe_max_area_A2: 698.647981
+right_lobe_max_area_A2: 484.492737
+reference_lobe_area_A2: 484.492737
+S_interface_neck: 0.60198176

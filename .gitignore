@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Simulation data — deposited on Dryad, never commit here
+md/
+us/
+*.xtc
+*.trr
+*.tpr
+*.cpt
+*.edr
+*.log.gz
+step*.gro
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
